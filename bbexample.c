@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-  printf("'ello, 'ello, World...\n");
+  printf("TVOD\n");
 
   return 0;
 }
