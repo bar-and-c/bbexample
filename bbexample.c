@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-  printf("Rejection is one thing, but rejection from a fool...\n");
+  printf("Hello, World...\n");
 
   return 0;
 }
