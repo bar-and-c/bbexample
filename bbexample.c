@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-  printf("Will it ever end?\n");
+  printf("no\n");
 
   return 0;
 }
