@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-  printf("hush puppy\n");
+  printf("sh up\n");
     
   return 0;
 }
