@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-  printf("no puppy\n");
+  printf("slush puppy\n");
     
   return 0;
 }
