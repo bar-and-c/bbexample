@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-  printf("It's like a riddle wrapped in endless layers of muck\n");
+  printf("Will it ever end?\n");
 
   return 0;
 }
