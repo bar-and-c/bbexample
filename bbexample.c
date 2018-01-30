@@ -11,7 +11,7 @@
 int main(int argc, char *argv[])
 {
   printf("no\n");
-
+  
   return 0;
 }
 
