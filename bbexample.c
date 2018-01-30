@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-  printf("not happy\n");
+  printf("no happy\n");
     
   return 0;
 }
