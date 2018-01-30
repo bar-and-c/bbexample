@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-  printf("Hate Yocto\n");
+  printf("It's like a riddle wrapped in endless layers of muck\n");
 
   return 0;
 }
