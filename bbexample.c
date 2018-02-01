@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-  printf("do repeat do repeat do repeat do repeat\n");
+  printf("no no no no no no no no\n");
     
   return 0;
 }
