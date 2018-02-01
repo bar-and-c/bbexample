@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-  printf("AAAAAHHHHHHHH------------PLEASE KILL ME!!!!!!!!!!!!!!!!\n");
+  printf("dfsdf\n");
     
   return 0;
 }
