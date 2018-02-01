@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-  printf("dfsdf\n");
+  printf("The dead dead eyes\nof working with Yocto\nmake you question life\nmaybe it's better without you\n");
     
   return 0;
 }
