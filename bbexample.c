@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-  printf("noooo\n");
+  printf("going going gone\n");
     
   return 0;
 }
