@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-  printf("I did, and now I'm back, and now I want to go home...\n");
+  printf("Sweet home Alabama\n");
     
   return 0;
 }
